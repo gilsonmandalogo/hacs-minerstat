@@ -1,0 +1,7 @@
+{
+    "name": "Minerstat",
+    "render_readme": "true",
+    "domains": [
+        "sensor"
+    ]
+}
