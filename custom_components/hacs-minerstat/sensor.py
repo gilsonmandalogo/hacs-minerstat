@@ -11,8 +11,8 @@ DEFAULT_SCAN_INTERVAL = timedelta(minutes=15)
 
 PLATFORM_SCHEMA = PLATFORM_SCHEMA.extend({
     vol.Optional(CONF_NAME, default=DEFAULT_NAME): cv.string,
-    vol.Required(CONF_ACCESS_KEY): str
-    vol.Required(CONF_ACCESS_KEY): str
+    vol.Required(CONF_ACCESS_KEY): str,
+    vol.Required(CONF_RIG_NAME): str
 })
 
 class Minerstat(entity.Entity):
