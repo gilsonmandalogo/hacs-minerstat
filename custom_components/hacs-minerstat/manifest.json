@@ -1,0 +1,9 @@
+{
+    "domain": "hacs-minerstat",
+    "name": "Minerstat",
+    "documentation": "https://github.com/gilsonmandalogo/hacs-minerstat",
+    "issue_tracker": "https://github.com/gilsonmandalogo/hacs-minerstat/issues",
+    "codeowners": [
+        "@gilsonmandalogo"
+    ]
+}
