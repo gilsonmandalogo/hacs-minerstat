@@ -3,6 +3,7 @@ from homeassistant.components.sensor import (PLATFORM_SCHEMA)
 from datetime import timedelta
 import voluptuous as vol
 import urllib.request, json
+import homeassistant.helpers.config_validation as cv
 
 CONF_NAME = 'name'
 CONF_ACCESS_KEY = 'access_key'
