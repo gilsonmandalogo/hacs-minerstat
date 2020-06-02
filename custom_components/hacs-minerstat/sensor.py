@@ -1,5 +1,6 @@
 from homeassistant.helpers import entity
 from homeassistant.components.sensor import (PLATFORM_SCHEMA)
+from datetime import timedelta
 import voluptuous as vol
 import urllib.request, json
 
