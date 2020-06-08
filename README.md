@@ -1,8 +1,8 @@
 # hacs-minerstat
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 ![Validate](https://github.com/gilsonmandalogo/hacs-minerstat/workflows/Validate/badge.svg)
-[![buy_me_a_coffee_badge](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/gilson)
+[![buy_me_a_coffee_badge](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/gilson)
 
 A integration with [Minerstart](https://minerstat.com/) to create a sensor from your rig's hashrate.
 
