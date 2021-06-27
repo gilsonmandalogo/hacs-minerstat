@@ -5,7 +5,7 @@ import voluptuous as vol
 import urllib.request, json
 import homeassistant.helpers.config_validation as cv
 
-__version__ = "1.1.0"
+__version__ = "1.1.1"
 
 CONF_NAME = "name"
 CONF_ACCESS_KEY = "access_key"
