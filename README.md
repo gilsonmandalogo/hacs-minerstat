@@ -24,6 +24,14 @@ sensor:
 |`rig_name`|string|**Required**||The name that you defined for your rig at Minerstat|
 |`name`|string|Optional|`Minerstat`|Custom name for the sensor|
 
+Don't get exyted if you get an error from the editor while posting the sensor stuff into your sensor.yaml (or if you don't includ a sensor.yaml into your configuration.yaml, then in the "sensor:" section inside the configuration.yamal) It works just fine. Confirm by "Test Config" in HA. 
+
+Here thats how it looks on my system, and works just fine.
+
+![image](https://user-images.githubusercontent.com/60316272/149030185-a448c791-f494-4150-9712-272f33211542.png)
+
+
+
 ## Support this project
 
 **Buy me a ~~coffee~~ beer 🍺**: https://www.buymeacoffee.com/gilson
